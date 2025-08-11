@@ -25,5 +25,4 @@ def guess_the_number():
 
 guess_the_number()
 
-#adding this line as I learn how to commit to a new branch on github
-#adding another line to test commit functionality
+
