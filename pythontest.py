@@ -21,7 +21,8 @@ def guess_the_number():
                 print(f"Congratulations! You guessed the number in {attempts} attempts.")
                 break
         except ValueError:
-            print("Please enter a valid integer.")
+            print("Please enter a valid integer!")
 
 guess_the_number()
 
+#adding this line as I learn how to commit to a new branch on github
